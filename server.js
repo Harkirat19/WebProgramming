@@ -6,5 +6,5 @@ const HTTP_PORT = process.env.PORT || 8080; // assign a port
 app.listen(HTTP_PORT, () => console.log(`server listening on: ${HTTP_PORT}`));
 
 app.get('/', (req, res) => {
-    res.send('Hello Jui Sachin');
+    res.send('Harkirat Singh - 100447226');
   });
